@@ -1,6 +1,6 @@
 # Projects
 
-You will find here all my public projects
+You will find here all my available projects
 
 - [5G Core Network with support for NTN](#5g-core-network-with-support-for-ntn)
 - [Free5GC CLI Tool](#free5gc-cli-tool)

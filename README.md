@@ -74,7 +74,7 @@ An implementation of the Slice Classifier Runtime
 
 [![Project link](https://img.shields.io/badge/Project-skyfall-lightgrey)](https://github.com/shynuu/skyfall)
 [![Build status](https://img.shields.io/badge/Status-archived-orange)](https://github.com/shynuu/skyfall)
-[![Language](https://img.shields.io/badge/Language-Arduino-blue?logo=arduino)](https://www.arduino.cc/)
+[![Language](https://img.shields.io/badge/Technology-Arduino-blue?logo=arduino)](https://www.arduino.cc/)
 
 Thales Arduino 2018 Contest
 
